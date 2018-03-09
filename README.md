@@ -10,6 +10,5 @@ Download mapbox unity sdk
 Access token through Mapbox 
 
 3. Vimeo Unity SDK + ARKit
-!(https://media.giphy.com/media/1dI0CYNv9i57xyvR9U/giphy.gif)
-
+<iframe src="https://giphy.com/embed/1dI0CYNv9i57xyvR9U" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1dI0CYNv9i57xyvR9U">via GIPHY</a></p>
 
